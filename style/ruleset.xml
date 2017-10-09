@@ -23,11 +23,8 @@
   </properties>
   <!-- Generated libs have some properties that break this! -->
   <exclude-pattern>Service/*.php</exclude-pattern>
-<<<<<<< HEAD
   <!-- exclude autoload functions -->
   <exclude-pattern>autoload.php</exclude-pattern>
-=======
->>>>>>> google/master
  </rule>
 
  <!-- All PHP files MUST use the Unix LF (linefeed) line ending. -->
